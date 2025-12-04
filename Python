@@ -1,0 +1,6 @@
+git in
+git add.
+git commit-m"the end of my python boot camp"
+git branch -M Nelson 
+git remote add https://github.com/Dunama/6-weeks-Python-Bootcamp1.0.git
+git origin Nelson 
